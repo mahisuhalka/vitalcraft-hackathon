@@ -1,0 +1,8 @@
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[build.environment]
+  # Demo mode is explicitly enabled for this preview deployment: the public site
+  # plus a synthetic registration/dashboard flow that never submits real data.
+  NEXT_PUBLIC_VITALCRAFT_DEMO_MODE = "true"
