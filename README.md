@@ -6,6 +6,8 @@ hackathon organized by **IEEE EMBS – BMSIT&M** (28–29 November 2026, BMSIT&M
 The site has a Minecraft-*inspired* pixel/block identity built from original CSS and SVG art. It isn't
 affiliated with Mojang Studios or Microsoft and uses none of their assets.
 
+https://vitalcraft-hackathon.netlify.app
+
 ## What works today
 
 - **Public event site** (`/`): hero, About (with the proposed event journey), Hardware/Software tracks with
